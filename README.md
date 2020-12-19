@@ -1,0 +1,1 @@
+My static demo website
